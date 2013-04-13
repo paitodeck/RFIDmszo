@@ -1,0 +1,3 @@
+RFIDmszo
+========
+Egyszerű előzmény
